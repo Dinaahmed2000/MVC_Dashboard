@@ -1,0 +1,63 @@
+﻿@model IEnumerable<DepartmentViewModel>
+
+@{
+    ViewData["Title"] = "All Departments";
+    //ViewBag.Tilte = "Index";
+}
+
+@if (TempData["Message"] is not null)
+{
+    <div class="alert alert-primary mt-3">
+        @TempData["Message"]
+    </div>
+}
+
+<h1>All Departments</h1>
+<br>
+<br />
+<a asp-action="Create" class="btn btn-primary">Create New Department</a>
+
+<div class="row justify-content-center align-items-center mt-5">
+    <form asp-action="Index" class="row col-8 offset-1">
+        <div class="col-8">
+            <input type="search" class="form-control" name="searchValue" placeholder="Search by name..." />
+        </div>
+        <div class="col-4">
+            <input type="submit" value="search" class="btn btn-success" />
+        </div>
+
+    </form>
+</div>
+
+@if(Model.Count() > 0)
+{
+    <table class="table mt-3 table-striped table-hover"> 
+        <thead>
+            <tr>
+                <td>@Html.DisplayNameFor(d=>d.Code)</td>
+                <td>@Html.DisplayNameFor(d=>d.Name)</td>
+                <td>@Html.DisplayNameFor(d=>d.DateOfCreation)</td>
+                <td>Details</td>
+                <td>Update</td>
+                <td>Delete</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var department in Model)
+            {
+                <tr>
+                    <td>@department.Code</td>
+                    <td>@department.Name</td>
+                    <td>@department.DateOfCreation.Date</td>
+                    <partial name="_buttonsPartialView" model="@department.Id.ToString()">
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning mt-4">
+        <h3>There is no department</h3>
+    </div>
+}

@@ -1,0 +1,181 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Demo_PL
+build_property.RootNamespace = Demo_PL
+build_property.ProjectDir = D:\Back_End\ASP.net core MVC\Assignments\assignment6\assign6\Demo-PL\Demo-PL\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\Back_End\ASP.net core MVC\Assignments\assignment6\assign6\Demo-PL\Demo-PL
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Account/CheckYourInbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGVja1lvdXJJbmJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Account/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Department/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Department/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Department/partialViews/createEditDepartmentPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxwYXJ0aWFsVmlld3NcY3JlYXRlRWRpdERlcGFydG1lbnRQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Department/partialViews/detailsDeleteDepartmentPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxwYXJ0aWFsVmlld3NcZGV0YWlsc0RlbGV0ZURlcGFydG1lbnRQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Employee/partialViews/createEditEmployeePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVccGFydGlhbFZpZXdzXGNyZWF0ZUVkaXRFbXBsb3llZVBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Employee/partialViews/detailsDeleteEmployeePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVccGFydGlhbFZpZXdzXGRldGFpbHNEZWxldGVFbXBsb3llZVBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Role/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Role/partialViews/createEditRolePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxwYXJ0aWFsVmlld3NcY3JlYXRlRWRpdFJvbGVQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Role/partialViews/detailsDeleteRolePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxwYXJ0aWFsVmlld3NcZGV0YWlsc0RlbGV0ZVJvbGVQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Shared/_buttonsPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9idXR0b25zUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/User/partialViews/createEditUserPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxwYXJ0aWFsVmlld3NcY3JlYXRlRWRpdFVzZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/User/partialViews/detailsDeleteUserPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxwYXJ0aWFsVmlld3NcZGV0YWlsc0RlbGV0ZVVzZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Back_End/ASP.net core MVC/Assignments/assignment6/assign6/Demo-PL/Demo-PL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
